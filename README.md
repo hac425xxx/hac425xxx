@@ -2,6 +2,9 @@
 
 **About me**
 
+Security Researcher, Huawei RO0T Lab
+
+
 https://conference.hitb.org/hitbsecconf2021sin/speakers/sili-luo/
 
 https://www.blackhat.com/us-21/arsenal/schedule/#trapfuzzer-24090
