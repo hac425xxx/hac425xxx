@@ -1,8 +1,6 @@
 [![hac425xxx's github stats](https://github-readme-stats.vercel.app/api?username=hac425xxx)](https://github.com/anuraghazra/github-readme-stats)
 
 **About me**
-
-Security Researcher, Huawei RO0T Lab
 	
 email: hac425xxx@gmail.com
 
