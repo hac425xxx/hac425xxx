@@ -2,7 +2,9 @@
 
 **About me**
 	
-email: hac425xxx@gmail.com
+Email: hac425xxx@gmail.com
+
+https://cyberweek.ae/2021/presentations/wifi-security-from-0-to-1/
 
 https://conference.hitb.org/hitbsecconf2021sin/speakers/sili-luo/
 
