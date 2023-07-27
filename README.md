@@ -11,4 +11,5 @@ https://conference.hitb.org/hitbsecconf2021sin/speakers/sili-luo/
 https://www.blackhat.com/us-21/arsenal/schedule/#trapfuzzer-24090
 
 
+https://www.blackhat.com/asia-22/arsenal/schedule/#kinstrument-binary-only-instrumentation-framework-for-linux-kernel-based-on-breakpoint-25905
 
