@@ -9,3 +9,4 @@ Email: hac425xxx@gmail.com
 - https://www.blackhat.com/us-21/arsenal/schedule/#trapfuzzer-24090
 - https://www.blackhat.com/asia-22/arsenal/schedule/#kinstrument-binary-only-instrumentation-framework-for-linux-kernel-based-on-breakpoint-25905
 - [2023 看雪SDC大会 从探索到利用：揭示安卓模拟器漏洞](https://meet.kanxue.com/kxmeet-11.htm)
+- [2024 看雪SDC大会 从探索到利用：揭示安卓模拟器漏洞](https://bbs.kanxue.com/thread-283822.htm)
